@@ -10,3 +10,6 @@
     node7 线程死锁
     node8 守护线程
     node9 ThreadLocal
+    node10 线程状态
+    node11 synchronized关键字
+    node12 volatile关键字
